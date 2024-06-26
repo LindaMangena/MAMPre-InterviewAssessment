@@ -1,0 +1,14 @@
+c:\Users\Admin\Desktop\MAMPre-InterviewAssessment\SalesTaxes\bin\Debug\net7.0\SalesTaxes.exe
+c:\Users\Admin\Desktop\MAMPre-InterviewAssessment\SalesTaxes\bin\Debug\net7.0\SalesTaxes.deps.json
+c:\Users\Admin\Desktop\MAMPre-InterviewAssessment\SalesTaxes\bin\Debug\net7.0\SalesTaxes.runtimeconfig.json
+c:\Users\Admin\Desktop\MAMPre-InterviewAssessment\SalesTaxes\bin\Debug\net7.0\SalesTaxes.dll
+c:\Users\Admin\Desktop\MAMPre-InterviewAssessment\SalesTaxes\bin\Debug\net7.0\SalesTaxes.pdb
+c:\Users\Admin\Desktop\MAMPre-InterviewAssessment\SalesTaxes\obj\Debug\net7.0\SalesTaxes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\MAMPre-InterviewAssessment\SalesTaxes\obj\Debug\net7.0\SalesTaxes.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\MAMPre-InterviewAssessment\SalesTaxes\obj\Debug\net7.0\SalesTaxes.AssemblyInfo.cs
+c:\Users\Admin\Desktop\MAMPre-InterviewAssessment\SalesTaxes\obj\Debug\net7.0\SalesTaxes.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\MAMPre-InterviewAssessment\SalesTaxes\obj\Debug\net7.0\SalesTaxes.dll
+c:\Users\Admin\Desktop\MAMPre-InterviewAssessment\SalesTaxes\obj\Debug\net7.0\refint\SalesTaxes.dll
+c:\Users\Admin\Desktop\MAMPre-InterviewAssessment\SalesTaxes\obj\Debug\net7.0\SalesTaxes.pdb
+c:\Users\Admin\Desktop\MAMPre-InterviewAssessment\SalesTaxes\obj\Debug\net7.0\SalesTaxes.genruntimeconfig.cache
+c:\Users\Admin\Desktop\MAMPre-InterviewAssessment\SalesTaxes\obj\Debug\net7.0\ref\SalesTaxes.dll
